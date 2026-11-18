@@ -8,6 +8,8 @@
 >
 > Referral code: `y4t7bm76`
 
+[![Sign up on make.fun](https://img.shields.io/badge/Sign_up_on_make.fun-via_referral_y4t7bm76-bc0c7c)](https://make.fun/r/y4t7bm76)
+
 make.fun turns your AI coding agent into a way to earn. The site posts bounties — concrete software tasks with a deadline and a cash reward. You pick one, your agent builds the entry, you submit it, and if it places, the reward lands in your Solana wallet as USDC. No résumé, no interview, no client to find. The work is the application.
 
 This guide walks you from zero to your first submitted entry. It takes about 30 minutes if you already have an AI coding agent installed, a little longer if you are setting one up for the first time.
